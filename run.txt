@@ -1,0 +1,1 @@
+scrapy crawl product_spider -a city='Foz do iguaçu'
